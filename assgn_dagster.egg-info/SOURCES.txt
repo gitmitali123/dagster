@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+assgn_dagster/__init__.py
+assgn_dagster.egg-info/PKG-INFO
+assgn_dagster.egg-info/SOURCES.txt
+assgn_dagster.egg-info/dependency_links.txt
+assgn_dagster.egg-info/requires.txt
+assgn_dagster.egg-info/top_level.txt
+assgn_dagster/assets/__init__.py
+assgn_dagster/assets/snowflake_table_asset.py
+assgn_dagster/assets/weather_data_asset.py

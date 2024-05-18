@@ -1,0 +1,11 @@
+resources:
+  api:
+    config:
+      api_key: "5bbb9cc2ec728a7736e9e2fc4439c6b8"
+  snowflake:
+    config:
+      user: "mitali"
+      password: "July13eleven!"
+      account: "oshbptk-nz48980"
+      database: "Plants"
+      schema: "Iris"
